@@ -43,7 +43,7 @@ const Header = () => {
         whileInView={{opacity: [0, 1]}}
         transition={{duration: 0.5, delayChildren: 0.5}}
       >
-        <ProfileImg src={images.profile2} alt='profile-image' />
+        <ProfileImg src={images.profile1} alt='profile-image' />
         <Img1
           whileInView={{scale: [0, 1]}}
           transition={{duration: 1, ease: 'easeInOut' }}
