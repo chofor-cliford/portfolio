@@ -14,7 +14,7 @@ const SocialMedia = () => {
       </SocialWrapper>
       <SocialWrapper>
         <a href="https://www.linkedin.com/in/chofor-cliford">
-          <BsLinkedin />
+          <BsLinkedin color="black" />
         </a>
       </SocialWrapper>
     </SocialContainer>
